@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Tenzies-Game/static/css/main.84b18b79.css",
+    "main.js": "/React-Tenzies-Game/static/js/main.ca87388f.js",
+    "index.html": "/React-Tenzies-Game/index.html",
+    "main.84b18b79.css.map": "/React-Tenzies-Game/static/css/main.84b18b79.css.map",
+    "main.ca87388f.js.map": "/React-Tenzies-Game/static/js/main.ca87388f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b18b79.css",
+    "static/js/main.ca87388f.js"
+  ]
+}
