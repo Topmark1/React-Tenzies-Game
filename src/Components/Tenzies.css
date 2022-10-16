@@ -1,0 +1,10 @@
+body{background-color:pink
+}
+.darkB{background-color:rgb(0, 32, 2);padding:50px;margin:40px}
+.innerB{border-radius:5px;text-align:center;background-color:rgb(192, 233, 255);padding:20px 50px 50px 50px}
+.box{display:flex;flex-wrap:wrap;justify-content:center}
+.title{margin-bottom:20px}
+.boxes{font-size:30px;font-weight:bold;cursor:pointer;box-shadow:0px 3px 3px;border-radius:5px;margin:12px;padding:8px 15px;background-color:rgb(255, 255, 255)}
+button{border-radius:3px;font-weight:bold;cursor:pointer;background-color:rgb(0, 74, 5);width:100px;height:40px;color:white;margin-top:30px}
+button:hover{background-color:rgb(1, 127, 10)}
+#b10{background-color:blue}
