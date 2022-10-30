@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Tenzies-Game/static/css/main.84b18b79.css",
-    "main.js": "/React-Tenzies-Game/static/js/main.ca87388f.js",
+    "main.css": "/React-Tenzies-Game/static/css/main.d2f05ab7.css",
+    "main.js": "/React-Tenzies-Game/static/js/main.594b52b5.js",
     "index.html": "/React-Tenzies-Game/index.html",
-    "main.84b18b79.css.map": "/React-Tenzies-Game/static/css/main.84b18b79.css.map",
-    "main.ca87388f.js.map": "/React-Tenzies-Game/static/js/main.ca87388f.js.map"
+    "static/media/5.PNG": "/React-Tenzies-Game/static/media/5.7f9afaa10f3d2592fb1a.PNG",
+    "static/media/6.PNG": "/React-Tenzies-Game/static/media/6.33397be8ecc842b2fe29.PNG",
+    "static/media/3.PNG": "/React-Tenzies-Game/static/media/3.3c4ef8ca4358a8f23ddc.PNG",
+    "static/media/4.PNG": "/React-Tenzies-Game/static/media/4.b8cde1e69e37fa2dff79.PNG",
+    "static/media/2.PNG": "/React-Tenzies-Game/static/media/2.9eceef29be0fb92161e2.PNG",
+    "static/media/1.PNG": "/React-Tenzies-Game/static/media/1.4c6f6b0d37039017a5fb.PNG",
+    "main.d2f05ab7.css.map": "/React-Tenzies-Game/static/css/main.d2f05ab7.css.map",
+    "main.594b52b5.js.map": "/React-Tenzies-Game/static/js/main.594b52b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.84b18b79.css",
-    "static/js/main.ca87388f.js"
+    "static/css/main.d2f05ab7.css",
+    "static/js/main.594b52b5.js"
   ]
 }
